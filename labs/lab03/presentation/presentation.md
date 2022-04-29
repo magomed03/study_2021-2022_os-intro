@@ -1,28 +1,10 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Structural approach to the deep learning method
-author: |
-	Leonid A. Sevastianov\inst{1,3}
-	\and
-	Anton L. Sevastianov\inst{1}
-	\and
-	Edik A. Ayrjan\inst{2}
-	\and
-	Anna V. Korolkova\inst{1}
-	\and
-	Dmitry S. Kulyabov\inst{1,2}
-	\and
-	Imrikh Pokorny\inst{4}
-institute: |
-	\inst{1}RUDN University, Moscow, Russian Federation
-	\and
-	\inst{2}LIT JINR, Dubna, Russian Federation
-	\and
-	\inst{3}BLTP JINR, Dubna, Russian Federation
-	\and
-	\inst{4}Technical University of Košice, Košice, Slovakia
-date: NEC--2019, 30 September -- 4 October, 2019 Budva, Montenegro
+title: Лабораторная работа №3 "Markdown"
+author: Мажитов М.А.
+institute: RUDN University, Moscow, Russian Federation
+date:
 
 ## Formatting
 toc: false
@@ -36,13 +18,6 @@ header-includes:
 aspectratio: 43
 section-titles: true
 ---
-
-**Лабораторная работы №3**
-**Markdown**
-
-Мажитов Магомед Асхабович
-
-- - -
 
 ## Цель работы:
 
@@ -88,8 +63,6 @@ section-titles: true
 
 **1.** Открыл шаблон отчета и заполнил титульный лист(рис. [-@fig:001])
 
----
-
 ![Редактирование титульного листа](screens/1.png){ #fig:001 width=70% }
 
 - - - 
@@ -97,8 +70,6 @@ section-titles: true
 ## Ход работы
 
 Расписал цель работы и задания(рис. [-@fig:002])
-
----
 
 ![Цель работы и задания](screens/2.png){ #fig:002 width=70% }
 
@@ -108,8 +79,6 @@ section-titles: true
 
 Сохранил все скриншоты из отчета в формате *doc* в папку *image*(рис. [-@fig:003])
 
----
-
 ![Сохранение всех скриншиотов](screens/5.png){ #fig:003 width=70% }
 
 - - -
@@ -117,8 +86,6 @@ section-titles: true
 ## Ход работы
 
 Заполнил ход работы(рис. [-@fig:004])
-
----
 
 ![Заполнение хода работы](screens/6.png){ #fig:004 width=70% }
 
@@ -128,8 +95,6 @@ section-titles: true
 
 Скопировал контрольные вопросы и ответы на них из отчета(рис. [-@fig:005])
 
----
-
 ![Контрольные вопросы](screens/7.png){ #fig:005 width=70% }
 
 - - -
@@ -137,8 +102,6 @@ section-titles: true
 ## Ход работы
 
 Записал вывод.(рис. [-@fig:006])
-
----
 
 ![Вывод](screens/8.png){ #fig:006 width=70% }
 
